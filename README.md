@@ -7,9 +7,9 @@
 ---
 
 ### ✦ sobre
-- 💻 desenvolvendo habilidades em programação  
-- 🧠 evolução constante  
-- 🤖 interesse em robótica e tecnologia  
+-  desenvolvendo habilidades em programação  
+-  evolução constante  
+-  interesse em robótica e tecnologia  
 
 ---
 
