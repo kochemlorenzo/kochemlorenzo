@@ -1,30 +1,33 @@
 <h1 align="center">Lorenzo</h1>
 
 <p align="center">
-  code. create. repeat.
+  building things quietly
 </p>
 
 ---
 
 ### ✦ sobre
-- 💻 estudando desenvolvimento  
-- 🧠 focado em evolução constante  
-- 🤖 interesse em robótica  
+- 💻 desenvolvendo habilidades em programação  
+- 🧠 evolução constante  
+- 🤖 interesse em robótica e tecnologia  
 
 ---
 
 ### ✦ stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
 <p align="center">
-  <sub>python • sql • html • css</sub>
+  <sub>backend: python • sql</sub><br>
+  <sub>frontend: html • css</sub>
 </p>
 
 ---
 
 ### ✦ stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kochemlorenzo&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
@@ -32,12 +35,21 @@
 ---
 
 ### ✦ activity
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kochemlorenzo&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+### ✦ contributions
+
 <p align="center">
-  <sub>building things quietly</sub>
+  <img src="https://github.com/kochemlorenzo/kochemlorenzo/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>from logic to reality</sub>
 </p>
