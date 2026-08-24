@@ -16,17 +16,17 @@
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
-- 🎓 Cursando Engenharia de Software
-- 💻 Desenvolvendo de forma autodidata, projeto a projeto
-- 🔐 Interesse em robótica, segurança e tecnologia
-- 🐍 Foco atual em backend Python e sistemas com banco de dados
-- 📌 Status: aberto a oportunidades de estágio na região de Jaraguá do Sul/Joinville
+-  Cursando Engenharia de Software
+-  Desenvolvendo de forma autodidata, projeto a projeto
+-  Interesse em robótica, segurança e tecnologia
+-  Foco atual em backend Python e sistemas com banco de dados
+-  Status: aberto a oportunidades de estágio na região de Jaraguá do Sul/Joinville
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 **Backend**
 
@@ -42,15 +42,15 @@
 
 ---
 
-### 📌 Projetos em Destaque
+###  Projetos em Destaque
 
-- 🏨 **Hotel Maintenance System** — Sistema de gestão de manutenção hoteleira em Flask, com dashboards financeiros e exportação PDF/Excel, implantado no Railway.
-- 💊 **Casa Socorristas** — Plataforma de e-commerce farmacêutico com Next.js 14, TypeScript, Tailwind CSS e Supabase.
-- 🏦 **Projeto Banco** — Sistema bancário em Python com SQLite e bcrypt.
+-  **Hotel Maintenance System** — Sistema de gestão de manutenção hoteleira em Flask, com dashboards financeiros e exportação PDF/Excel, implantado no Railway.
+-  **Casa Socorristas** — Plataforma de e-commerce farmacêutico com Next.js 14, TypeScript, Tailwind CSS e Supabase.
+-  **Projeto Banco** — Sistema bancário em Python com SQLite e bcrypt.
 
 ---
 
-### 📊 Minhas Estatísticas
+###  Minhas Estatísticas
 
 <div align="center">
 
