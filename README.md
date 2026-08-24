@@ -4,9 +4,9 @@
 
 ### Estudante de Engenharia de Software | Desenvolvedor
 
-📍 Jaraguá do Sul / Joinville, SC, Brasil
+ Jaraguá do Sul / Joinville, SC, Brasil
 
-🔎 Em busca de oportunidades de estágio!
+ Em busca de oportunidades de estágio!
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](lorenzokochemborger07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-kochemborger/)
@@ -30,7 +30,7 @@
 
 **Backend**
 
-![Python](https://skillicons.dev/icons?i=python) ![Flask](https://skillicons.dev/icons?i=flask) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
+![Python](https://skillicons.dev/icons?i=python) ![Flask](https://skillicons.dev/icons?i=flask) 
 
 **Banco de Dados**
 
