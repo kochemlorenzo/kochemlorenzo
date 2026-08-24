@@ -1,59 +1,62 @@
-<h1 align="center">Lorenzo</h1>
-<p align="center">
-  <sub>building things quietly</sub>
-</p>
+<div align="center">
+
+# Opa, bão? Lorenzo Kochemborger aqui!
+
+### Estudante de Engenharia de Software | Desenvolvedor
+
+📍 Jaraguá do Sul / Joinville, SC, Brasil
+
+🔎 Em busca de oportunidades de estágio!
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](lorenzokochemborger07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-kochemborger/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kochemlorenzo)
+
+</div>
 
 ---
 
-### ✦ sobre
+### 👋 Sobre mim
 
-- desenvolvendo habilidades em programação de forma autodidata
-- evolução constante — projeto a projeto
-- interesse em robótica, segurança e tecnologia
-- foco atual: python backend e sistemas com banco de dados
-
----
-
-### ✦ stack
-
-<table align="center">
-  <tr>
-    <td align="center"><b>🐍 Python</b><br><sub>principal • backend • banco de dados</sub></td>
-    <td align="center">SQL<br><sub>sqlite • queries</sub></td>
-    <td align="center">HTML<br><sub>frontend</sub></td>
-    <td align="center">CSS<br><sub>estilização</sub></td>
-  </tr>
-</table>
+- 🎓 Cursando Engenharia de Software
+- 💻 Desenvolvendo de forma autodidata, projeto a projeto
+- 🔐 Interesse em robótica, segurança e tecnologia
+- 🐍 Foco atual em backend Python e sistemas com banco de dados
+- 📌 Status: aberto a oportunidades de estágio na região de Jaraguá do Sul/Joinville
 
 ---
 
-### ✦ stats
+### 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kochemlorenzo&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kochemlorenzo&theme=tokyonight" />
-</p>
+**Backend**
 
----
+![Python](https://skillicons.dev/icons?i=python) ![Flask](https://skillicons.dev/icons?i=flask) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)
 
-### ✦ activity
+**Banco de Dados**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kochemlorenzo&theme=tokyonight&hide_border=true"/>
-</p>
+![SQLite](https://skillicons.dev/icons?i=sqlite) ![Supabase](https://skillicons.dev/icons?i=supabase)
+
+**Ferramentas**
+
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Railway](https://skillicons.dev/icons?i=railway)
 
 ---
 
-### ✦ contributions
+### 📌 Projetos em Destaque
 
-<p align="center">
-  <img src="https://github.com/kochemlorenzo/kochemlorenzo/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+- 🏨 **Hotel Maintenance System** — Sistema de gestão de manutenção hoteleira em Flask, com dashboards financeiros e exportação PDF/Excel, implantado no Railway.
+- 💊 **Casa Socorristas** — Plataforma de e-commerce farmacêutico com Next.js 14, TypeScript, Tailwind CSS e Supabase.
+- 🏦 **Projeto Banco** — Sistema bancário em Python com SQLite e bcrypt.
 
 ---
 
-<p align="center">
-  <sub>from logic to reality</sub>
-</p>
+### 📊 Minhas Estatísticas
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kochemlorenzo&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kochemlorenzo&layout=compact&theme=dark&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kochemlorenzo&theme=dark&hide_border=true)
+
+</div>
